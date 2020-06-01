@@ -1,0 +1,5 @@
+Pour demarrer le server symfony :
+symfony server:start
+
+Pour activer les changements javascript et css en live
+yarn run encore dev --watch
